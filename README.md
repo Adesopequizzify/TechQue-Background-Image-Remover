@@ -31,6 +31,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-For any inquiries, please contact: [your-email@example.com](mailto:your-email@example.com)
+For any inquiries, please contact: [your-email@example.com](mailto: quetech45@gmail.com)
 
-Project Link: [https://github.com/your-username/techque-background-remover](https://github.com/your-username/techque-background-remover)
+Project Link: [https://github.com/Adesopequizzify/techque-background-remover](https://github.com/Adesopequizzify/techque-background-remover)
